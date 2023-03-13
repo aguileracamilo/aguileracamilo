@@ -7,7 +7,7 @@ Estudiante a fines de ingeniería de sistemas en la Universidad del Quindío, co
 #Tabla de comandos
 
 |Nombre                   |Descripción                                          | Conmando     |
-------------------------------------------------------------------------------------------------
+--------------------------|-----------------------------------------------------|---------------
 |Print working directory  |Muestra la ruta completa del directorio actual       | pwd          |
 |Change directory         |Cambia el directorio actual a otro directorio        | cd directorio|
 |Remove                   |Elimina archivos y directorios                       | rm archivo   |
