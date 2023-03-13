@@ -16,5 +16,5 @@ Estudiante a fines de ingeniería de sistemas en la Universidad del Quindío, co
 
 
 #Comandos alias:
--alias c='clear'
--alias ..='cd ..'
+1.alias c='clear'
+1.alias ..='cd ..'
