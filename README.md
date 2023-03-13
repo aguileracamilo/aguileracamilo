@@ -1,16 +1,20 @@
-### Hi there 👋
+### Camilo Sánchez Aguilera 👋
 
-<!--
-**aguileracamilo/aguileracamilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------- Desarrollador  -------
 
-Here are some ideas to get you started:
+Estudiante a fines de ingeniería de sistemas en la Universidad del Quindío, con buen desempeño de trabajo en equipo, con conocimiento de distintas metodologías de trabajo, autocritico, Soy una persona responsable, comprometida, abierta al dialogo, analítica, buscando siempre establecer relaciones provechosas, piensa que el trabajo en equipo se avanza mas rápido y se puede llegar mas lejos. Con muchas ganas de demostrar mis actitudes, aprender y de enfocarme en mi desarrollo personal y profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Tabla de comandos
+
+|Nombre                   |Descripción                                          | Conmando     |
+------------------------------------------------------------------------------------------------
+|Print working directory  |Muestra la ruta completa del directorio actual       | pwd          |
+|Change directory         |Cambia el directorio actual a otro directorio        | cd directorio|
+|Remove                   |Elimina archivos y directorios                       | rm archivo   |
+|Concatenate              |Muestra el contenido de un archivo                   | cat archivo  |
+|List                     |Muestra el contenido de un directorio                | ls           |   
+
+
+#Comandos alias:
+-alias c='clear'
+-alias ..='cd ..'
